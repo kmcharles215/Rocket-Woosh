@@ -1,0 +1,4 @@
+repository "Rocket Woosh@fonduecat@cloud"
+  path "/"
+    br "/main"
+    co "/main"
